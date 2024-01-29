@@ -3,7 +3,7 @@
 
 This report was done as a course exercise by *Tomasz Musial* during '*Microsoft Power BI Desktop for Business Intelligence*' course on Udemy.
 
-## About the report :-
+## About the report :
 
 **Aim** : design and execute an end to end business intelligence solution from scratch
 
