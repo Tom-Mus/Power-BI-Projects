@@ -26,7 +26,8 @@ This report was done as a course exercise by *Tomasz Musial* during '*Microsoft 
 
 ## Report View : 
 
-### 1) Topline Performance -![Report View - Topline Performance]()
+### 1) Topline Performance -![Report View - Topline Performance](![Maven_Market](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/98b55ddb-75c1-4c65-82ec-34de2b216e6e)
+)
 
 ### 2) Notes -![Report View - Notes]()
 
