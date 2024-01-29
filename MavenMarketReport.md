@@ -23,9 +23,9 @@ This report was done as a course exercise by *Tomasz Musial* during '*Microsoft 
 
 ## Report View : 
 
-### 1) Topline Performance - ![ToplinePerformance](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/202c0d1f-7575-40bf-8b83-752b95601972)
+### 1) Topline Performance : ![ToplinePerformance](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/202c0d1f-7575-40bf-8b83-752b95601972)
 
-### 2) Notes - ![Notes](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/0e23f722-a7fc-4e3d-8d47-f49eb3699430)
+### 2) Notes : ![Notes](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/0e23f722-a7fc-4e3d-8d47-f49eb3699430)
 
 ## Data View : ![data view](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/7c26e7db-3d24-4448-a10e-05ba289c7b97)
 
