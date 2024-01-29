@@ -1,8 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # MavenMarket Report PowerBI
 
 This report was done as a course exercise by *Tomasz Musial* during '*Microsoft Power BI Desktop for Business Intelligence*' course on Udemy.
