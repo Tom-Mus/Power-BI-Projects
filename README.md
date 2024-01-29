@@ -1,8 +1,8 @@
 # AdventureWorks Report PowerBI
 
-This report was done as a course project by *Mahesh Nanavare* during '*Microsoft Power BI Desktop for Business Intelligence*' course on Udemy.
+This report was done as a course project by *Tomasz Musial* during '*Microsoft Power BI Desktop for Business Intelligence*' course on Udemy.
 
-## About the report :-
+## About the report :
 
 **Aim** : design and execute an end to end business intelligence solution from scratch to track KPIs (sales, revenue, profit, returns), compare regional 
 performance, analyze product-level trends and forecasts, and identify high-value customers.
@@ -21,9 +21,9 @@ performance, analyze product-level trends and forecasts, and identify high-value
 # Screenshots of Power BI *Adventure Works* Final Report :-
 
 ## Report View : 
-### 1) Exec Dashboard - ![Exec Dashboard](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/50ffea5a-35ab-4935-aebe-730f83219476)
-### 2) Product Details - ![Produt Detail](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/76145db8-8874-4952-8300-7a07651f3643)
-### 3) Customer Details - ![Customer Detail](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/3c64ebdd-e417-4502-bfce-532d8b632061)
+### 1) Exec Dashboard : ![Exec Dashboard](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/50ffea5a-35ab-4935-aebe-730f83219476)
+### 2) Product Details : ![Produt Detail](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/76145db8-8874-4952-8300-7a07651f3643)
+### 3) Customer Details : ![Customer Detail](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/3c64ebdd-e417-4502-bfce-532d8b632061)
 ## Data View : ![Data View](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/df6cbff4-842c-4dd6-a8ec-594ec9f3a527)
 ## Model View : ![Model View](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/59a354a0-e6cb-4b25-a2c9-43df4830dbd8)
 
@@ -34,7 +34,7 @@ All the source CSV files (containing information about transactions, returns, pr
 
 This report was done as a course exercise by *Tomasz Musial* during '*Microsoft Power BI Desktop for Business Intelligence*' course on Udemy.
 
-## About the report :-
+## About the report :
 
 **Aim** : design and execute an end to end business intelligence solution from scratch
 
@@ -54,9 +54,9 @@ This report was done as a course exercise by *Tomasz Musial* during '*Microsoft 
 
 ## Report View : 
 
-### 1) Topline Performance - ![ToplinePerformance](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/202c0d1f-7575-40bf-8b83-752b95601972)
+### 1) Topline Performance : ![ToplinePerformance](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/202c0d1f-7575-40bf-8b83-752b95601972)
 
-### 2) Notes - ![Notes](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/0e23f722-a7fc-4e3d-8d47-f49eb3699430)
+### 2) Notes : ![Notes](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/0e23f722-a7fc-4e3d-8d47-f49eb3699430)
 
 ## Data View : ![data view](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/7c26e7db-3d24-4448-a10e-05ba289c7b97)
 
