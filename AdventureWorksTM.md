@@ -1,6 +1,6 @@
 # AdventureWorks Report PowerBI
 
-This report was done as a course project by *Tomasz Musial* during '*Microsoft Power BI Desktop for Business Intelligence*' course on Udemy.
+This report was done as a course project by *Tomasz Musial* during '*Microsoft Power BI Desktop for Business Intelligence*' course.
 
 ## About the report :
 
