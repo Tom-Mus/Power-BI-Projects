@@ -7,7 +7,8 @@ This report was done as a course exercise by *Tomasz Musial* during '*Microsoft 
 
 **Aim** : design and execute an end to end business intelligence solution from scratch
 
-**Company** : Maven Market (a multi-national grocery chain with locations in Canada, Mexico and the United States)
+**Company** : Maven Market (a multi-national grocery chain with locations in Canada, Mexico and the United States) 
+![Maven_Market](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/609a4e3f-9c97-44d3-aac4-92e2c18b2da2)
 
 **Role** : Lead analyst
 
