@@ -21,7 +21,7 @@ performance, analyze product-level trends and forecasts, and identify high-value
 # Screenshots of Power BI *Adventure Works* Final Report :-
 
 ## Report View : 
-### 1) Exec Summary - ![Exec Dashboard](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/50ffea5a-35ab-4935-aebe-730f83219476)
+### 1) Exec Dashboard - ![Exec Dashboard](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/50ffea5a-35ab-4935-aebe-730f83219476)
 ### 2) Product Details - ![Produt Detail](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/76145db8-8874-4952-8300-7a07651f3643)
 ### 3) Customer Details - ![Customer Detail](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/3c64ebdd-e417-4502-bfce-532d8b632061)
 ## Data View : ![Data View](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/df6cbff4-842c-4dd6-a8ec-594ec9f3a527)
