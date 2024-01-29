@@ -13,10 +13,10 @@ performance, analyze product-level trends and forecasts, and identify high-value
 
 ## Tasks Performed through the entire business intelligence workflow: :-
 
-1) connecting and shaping the source data, 
-2) building a relational model, 
-3) adding calculated columns and measures, 
-4) designing an interactive report.
+1) Connecting and shaping the source data, 
+2) Building a relational model, 
+3) Adding calculated columns and measures, 
+4) Designing an interactive report.
 
 # Screenshots of Power BI *Adventure Works* Final Report :-
 
