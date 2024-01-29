@@ -1,4 +1,4 @@
-# AdventureWorks_Report-PowerBI
+# AdventureWorks Report PowerBI
 
 This report was done as a course project by *Mahesh Nanavare* during '*Microsoft Power BI Desktop for Business Intelligence*' course on Udemy.
 
@@ -7,7 +7,7 @@ This report was done as a course project by *Mahesh Nanavare* during '*Microsoft
 **Aim** : design and execute an end to end business intelligence solution from scratch to track KPIs (sales, revenue, profit, returns), compare regional 
 performance, analyze product-level trends and forecasts, and identify high-value customers.
 
-**Company** : Adventure Work Cycles (a global manufacturing company)
+**Company** : Adventure Work Cycles (a global manufacturing company) ![AdventureWorks_Logo](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/5610559c-def4-4140-b950-a4d870fcc226)
 
 **Role** : Lead analyst
 
