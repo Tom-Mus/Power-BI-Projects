@@ -23,14 +23,11 @@ This report was done as a course exercise by *Tomasz Musial* during '*Microsoft 
 ## Report View : 
 
 ### 1) Topline Performance -![Report View - Topline Performance](![ToplinePerformance](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/202c0d1f-7575-40bf-8b83-752b95601972)
-)
+
 ### 2) Notes -![Report View - Notes](![Notes](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/0e23f722-a7fc-4e3d-8d47-f49eb3699430)
-)
 
 ## Data View :![Data View](![data view](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/7c26e7db-3d24-4448-a10e-05ba289c7b97)
-)
 
 ## Model View :![Model View](![Data Model](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/5919f8bf-d5ac-4ee4-9c44-095e59ad17bf)
-)
 
 All the source CSV files (containing information about transactions, returns, products, customers and territories) were made available in the Udemy course itself. Thanks to *Chris Dutton*, instructor of the course for allowing the publication of the report.
