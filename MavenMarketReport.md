@@ -12,14 +12,14 @@ This report was done as a course exercise by *Tomasz Musial* during '*Microsoft 
 
 **Role** : Lead analyst
 
-## Tasks Performed through the entire business intelligence workflow: :-
+## Tasks Performed through the entire business intelligence workflow: :
 
 1) Connecting and shaping the source data, 
 2) Building a relational model, 
 3) Adding calculated columns and measures, 
 4) Designing an interactive report.
 
-# Screenshots of Power BI *Maven Market* Final Report :-
+# Screenshots of Power BI *Maven Market* Final Report :
 
 ## Report View : 
 
