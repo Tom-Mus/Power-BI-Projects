@@ -12,14 +12,14 @@ performance, analyze product-level trends and forecasts, and identify high-value
 
 **Role** : Lead analyst
 
-## Tasks Performed through the entire business intelligence workflow: :-
+## Tasks Performed through the entire business intelligence workflow: :
 
 1) Connecting and shaping the source data, 
 2) Building a relational model, 
 3) Adding calculated columns and measures, 
 4) Designing an interactive report.
 
-# Screenshots of Power BI *Adventure Works* Final Report :-
+# Screenshots of Power BI *Adventure Works* Final Report :
 
 ## Report View : 
 ### 1) Exec Dashboard : ![Exec Dashboard](https://github.com/Tom-Mus/Power-BI-Projects/assets/124078931/50ffea5a-35ab-4935-aebe-730f83219476)
